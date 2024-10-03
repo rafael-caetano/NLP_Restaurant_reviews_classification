@@ -7,6 +7,7 @@
 - [Results](#results)
 - [Discussion](#discussion)
 - [Conclusion](#conclusion)
+- [Referenes](#references)
 
 ## Introduction
 
@@ -108,5 +109,9 @@ For applications where computational resources are limited, **Logistic Regressio
 
 Overall, the choice of model should consider the specific requirements of the task, such as the importance of precision vs. recall, computational resources, and the need for model interpretability.
 
+## **References**
 
+1. Machine Learning A-Z: AI, Python & R [2024]  
+Created by Hadelin de Ponteves, Kirill Eremenko, SuperDataScience Team, and the Ligency Team  
+[https://www.udemy.com/course/machinelearning/](https://www.udemy.com/course/machinelearning/)
 
